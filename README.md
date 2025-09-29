@@ -42,6 +42,8 @@ The library will consist of 2 main components that serve specific purposes:
 
 ## 2. Core Requirements
 
+**Important**: You must choose the best approach you think is suitable for Core Requirements. Consider factors like maintainability, performance, developer experience, and team adoption when making your architectural decisions.
+
 ### Employee Search Input Component
 1. **Search Functionality**:
    - Placeholder text: "Name, Email, ID"
