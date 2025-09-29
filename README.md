@@ -1,5 +1,7 @@
 # Frontend Coding Assignment
 
+![Cover Image](_assigment_doc_asset_/cover.png)
+
 ## 1. Assignment Context (Story)
 
 ### The Challenge
