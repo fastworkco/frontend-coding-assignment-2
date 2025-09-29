@@ -38,7 +38,6 @@ The library will consist of 2 main components that serve specific purposes:
 
 4. **Minimal UI & Small Library Size**: CTO wants the component UI to be very minimal, so the library should be small and UI framework may not be required
 
-5.
 
 ## 2. Core Requirements
 
