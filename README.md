@@ -2,6 +2,9 @@
 
 ![Cover Image](_assigment_doc_asset_/cover.png)
 
+UI Explanation:
+![UI Explanation]([_assigment_doc_asset_/ui_explanation.png](https://www.figma.com/board/ontP0myKBc7RnB8TXC5TkZ/FW-Frontend-Assignment?node-id=0-1&p=f&t=rzunIzI6wBKFWquq-0))
+
 ## 1. Assignment Context (Story)
 
 ### The Challenge
