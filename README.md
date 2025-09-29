@@ -66,7 +66,7 @@ The library will consist of 2 main components that serve specific purposes:
    - **Search Highlighting**: Highlight matched text in search results
 
 
-## 3. Additional Requirements
+## 3. Additional Requirements (Optional)
 
 1. **Keyboard Shortcuts**:
    - Use `Ctrl+K` (Windows/Linux) or `Cmd+K` (Mac) to focus on the search input
