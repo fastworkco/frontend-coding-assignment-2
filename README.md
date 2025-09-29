@@ -2,8 +2,7 @@
 
 ![Cover Image](_assigment_doc_asset_/cover.png)
 
-UI Explanation:
-https://www.figma.com/board/ontP0myKBc7RnB8TXC5TkZ/FW-Frontend-Assignment?node-id=0-1&p=f&t=rzunIzI6wBKFWquq-0
+UI Explanation: See [UI Design](./_assigment_doc_asset_/ui-design.md)
 
 ## 1. Assignment Context (Story)
 
