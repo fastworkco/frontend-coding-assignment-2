@@ -2,7 +2,7 @@
 
 ![Cover Image](_assigment_doc_asset_/cover.png)
 
-UI Explanation: See [UI Design](./_assigment_doc_asset_/ui-design.md)
+UI Explanation: See [UI Design](_assigment_doc_asset_/ui-design.md)
 
 ## 1. Assignment Context (Story)
 
@@ -66,14 +66,19 @@ The library will consist of 2 main components that serve specific purposes:
    - **Search Highlighting**: Highlight matched text in search results
 
 
-## 3. Additional Requirements (Optional)
+## 3. Packaging & Distribution
+
+• **Design the best way to package and distribute the library** to make it easy for all teams to use across different frameworks (React, Svelte, vanilla JavaScript)
+
+
+## 4. Additional Requirements (Optional)
 
 1. **Keyboard Shortcuts**:
    - Use `Ctrl+K` (Windows/Linux) or `Cmd+K` (Mac) to focus on the search input
    - Use arrow keys (Up/Down) to navigate and focus on table items
    - Use `Enter` key to open the context menu for the focused table item
 
-## 4. Submission Guidelines
+## 5. Submission Guidelines
 
 1. **GitHub Repository Structure**:
    - Create a GitHub repository with the following structure:
