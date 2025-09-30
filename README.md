@@ -2,7 +2,7 @@
 
 ![Cover Image](_assigment_doc_asset_/cover.png)
 
-UI Explanation: See [UI Design](_assigment_doc_asset_/ui-design.md)
+UI Explanation: See [UI Design](_assigment_doc_asset_)
 
 ## 1. Assignment Context (Story)
 
